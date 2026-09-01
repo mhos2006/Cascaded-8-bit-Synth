@@ -16,7 +16,8 @@ To achieve the 5V power rail capable of driving the LM386 amplifier without ther
 [5V Linear Breadboard Power Supply](https://github.com/mhos2006/starter-dc-makeshift-power-supply)
 
 ## Schematics
-<img width="1125" height="202" alt="image" src="[INSERT_KICAD_SCHEMATIC_LINK_HERE]" />
+<img width="1243" height="647" alt="image" src="https://github.com/user-attachments/assets/11cd9099-686c-4596-ba82-810fea23c7fb" />
+
 
 ## Testing
 *(Insert video demonstrating the Fire Rate, Pulse Width, Delay Time, and Volume sweeps here)*
