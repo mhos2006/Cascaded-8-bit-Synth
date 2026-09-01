@@ -6,7 +6,7 @@ A cascaded analog-to-digital synthesizer circuit. It utilizes a stepped-tone gen
 ## Hardware Specifications
 - **ICs:** 2x NE555 (Oscillators), 1x PT2399 (Digital Delay), 1x LM386 (Audio Amplifier)
 - **Controls:** 4x Potentiometers (Pitch, Pulse-Width, Delay Time, Master Volume)
-- **Passive Components (Resistors):** Assorted 1kΩ (safety constraints) and 10Ω (Zobel network)
+- **Passive Components (Resistors):** Assorted 1kΩ (safety constraints) and 47Ω (Zobel network)
 - **Passive Components (Capacitors):** Assorted 0.1µF ceramics (AC coupling), 10µF to 1000µF electrolytics (power filtering and speaker output)
 - **Output:** 1x 8Ω Magnetic Speaker
 - **Power & Protection:** 1x L7805 Linear Voltage Regulator (dropping 10-12V unregulated down to stable 5V logic)
